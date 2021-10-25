@@ -1,0 +1,12 @@
+.topbar{
+   color: white;
+   background-color: black;
+   padding-top: 0.02rem;
+   padding-bottom: 0.02rem; 
+}
+.topbar div{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: normal;
+}
